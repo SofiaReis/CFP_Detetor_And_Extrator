@@ -1,0 +1,52 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: rosaldo.rossetti@gmail.com
+Received: by 10.112.3.136 with SMTP id c8csp48354lbc;
+        Tue, 14 Feb 2012 04:33:40 -0800 (PST)
+Received: by 10.68.189.196 with SMTP id gk4mr59143358pbc.44.1329222819258;
+        Tue, 14 Feb 2012 04:33:39 -0800 (PST)
+Return-Path: <prvs=039123f17a=alerts@conferencealerts.com>
+Received: from server.conferencealerts.com (server.conferencealerts.com. [66.241.159.64])
+        by mx.google.com with ESMTPS id 4si2286282pbm.25.2012.02.14.04.33.38
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Tue, 14 Feb 2012 04:33:39 -0800 (PST)
+Received-SPF: pass (google.com: best guess record for domain of prvs=039123f17a=alerts@conferencealerts.com designates 66.241.159.64 as permitted sender) client-ip=66.241.159.64;
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of prvs=039123f17a=alerts@conferencealerts.com designates 66.241.159.64 as permitted sender) smtp.mail=prvs=039123f17a=alerts@conferencealerts.com
+Message-Id: <4f3a54a3.8401440a.1c2b.ffffe128SMTPIN_ADDED@mx.google.com>
+Received: from server.conferencealerts.com ([66.241.159.64]:64821 helo=www.conferencealerts.com)
+	by server.conferencealerts.com with smtp (Exim 4.71 (FreeBSD))
+	(envelope-from <alerts@conferencealerts.com>)
+	id 1RxHZi-000IHt-5n
+	for rosaldo.rossetti@gmail.com; Tue, 14 Feb 2012 04:33:38 -0800
+Date: Tue, 14 Feb 2012 04:33:38 -0800
+From: alerts@conferencealerts.com
+To: rosaldo.rossetti@gmail.com
+X-Mailer: Miva v3.9700
+Subject: 2012 International Conference on Smart Grid Systems (ICSGS 2012)
+
+2012 International Conference on Smart Grid 
+Systems (ICSGS 2012)
+24 to 26 July 2012
+Kuala Lumpur, Malaysia
+
+ICSGS 2012 will be published in the IPCSIT 
+(ISSN: 2010-460X) as one volume, and will be 
+included in the E&T Digital Library, and indexed 
+by EBSCO, CNKI, WorldCat, Google Scholar, and 
+sent to be reviewed by Ei Compendex and ISI 
+Proceedings.
+
+The deadline for abstracts/proposals is 25 March 
+2012.
+
+Enquiries: iacsitconferences@gmail.com
+Web address: http://www.icsgs.org/cfp.htm
+Sponsored by: IACSIT
+----------------------------------------------------------------
+This announcement is distributed via Conference Alerts.
+We aim to provide correct and reliable information about
+upcoming events, but cannot accept responsibility for the text
+of announcements or for the bona fides of event organizers.
+Please feel free to contact us if you notice incorrect or
+misleading information and we will attempt to correct it.
+----------------------------------------------------------------
+To unsubscribe from Conference Alerts, please visit: http://conferencealerts.com/unsub.mv

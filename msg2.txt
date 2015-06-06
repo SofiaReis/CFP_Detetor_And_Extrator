@@ -1,0 +1,144 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: rosaldo.rossetti@gmail.com
+Received: by 10.223.157.69 with SMTP id a5csp102115fax;
+        Sat, 12 May 2012 10:06:45 -0700 (PDT)
+Received: by 10.180.92.9 with SMTP id ci9mr5520208wib.15.1336842404596;
+        Sat, 12 May 2012 10:06:44 -0700 (PDT)
+Return-Path: <failure@wi-consortium.org>
+Received: from smtp.fe.up.pt (smtp.fe.up.pt. [193.136.28.30])
+        by mx.google.com with ESMTP id m18si12792312wee.2.2012.05.12.10.06.44;
+        Sat, 12 May 2012 10:06:44 -0700 (PDT)
+Received-SPF: neutral (google.com: 193.136.28.30 is neither permitted nor denied by domain of failure@wi-consortium.org) client-ip=193.136.28.30;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 193.136.28.30 is neither permitted nor denied by domain of failure@wi-consortium.org) smtp.mail=failure@wi-consortium.org
+Received: from localhost (localhost [127.0.0.1])
+	by smtp.fe.up.pt (Postfix) with ESMTP id ED9B96E38
+	for <rosaldo.rossetti@gmail.com>; Sat, 12 May 2012 18:06:43 +0100 (WEST)
+Received: from smtp.fe.up.pt ([127.0.0.1])
+	by localhost (smtp2.fe.up.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id VwicNtrBicyz for <rosaldo.rossetti@gmail.com>;
+	Sat, 12 May 2012 18:06:43 +0100 (WEST)
+Received: from mbx2.fe.up.pt (mail.fe.up.pt [193.136.28.29])
+	by smtp.fe.up.pt (Postfix) with ESMTP id DA28A6AC4
+	for <rosaldo.rossetti@gmail.com>; Sat, 12 May 2012 18:06:43 +0100 (WEST)
+Received: by mbx2.fe.up.pt (Postfix, from userid 33513)
+	id D340C7123E; Sat, 12 May 2012 18:06:43 +0100 (WEST)
+X-Sieve: Dovecot Sieve 0.1.18
+X-Original-To: rossetti@mail.fe.up.pt
+Delivered-To: rossetti@mail.fe.up.pt
+Received: from relay1.fe.up.pt (relay1.fe.up.pt [193.136.28.33])
+	by mbx2.fe.up.pt (Postfix) with ESMTP id B5A377123C
+	for <rossetti@mail.fe.up.pt>; Sat, 12 May 2012 18:06:43 +0100 (WEST)
+Received: from localhost (localhost [127.0.0.1])
+	by relay1.fe.up.pt (Postfix) with ESMTP id AF80620BC0AE
+	for <rossetti@fe.up.pt>; Sat, 12 May 2012 18:06:43 +0100 (WEST)
+X-Virus-Scanned: amavisd-new at fe.up.pt
+X-Spam-Flag: NO
+X-Spam-Score: -0.011
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.011 tagged_above=-999 required=4.2
+	tests=[SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=unavailable
+Received: from relay1.fe.up.pt ([127.0.0.1])
+	by localhost (relay1.fe.up.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ICRmYkC2jTJR for <rossetti@fe.up.pt>;
+	Sat, 12 May 2012 18:06:43 +0100 (WEST)
+Received: from www.wi-consortium.org (www.wi-consortium.org [74.54.18.82])
+	by relay1.fe.up.pt (Postfix) with SMTP id 253A520BC095
+	for <rossetti@fe.up.pt>; Sat, 12 May 2012 18:06:42 +0100 (WEST)
+Received: (qmail 12099 invoked by uid 48); 13 May 2012 01:59:20 +0900
+Date: 13 May 2012 01:59:20 +0900
+Message-ID: <20120512165920.12098.qmail@www.wi-consortium.org>
+To: rossetti@fe.up.pt
+Subject: WI 2012 - Final Call for Papers
+From: wic-office@wi-consortium.org
+Reply-To: no-reply@wi-consortium.org
+
+
+[Apologies if you receive this more than once]
+
+####################################################################
+Final CALL FOR PAPERS
+
+The 2012 IEEE/WIC/ACM International Conference 
+on Web Intelligence (WI'12)
+    
+December 4-7, 2012, Macau SAR, China
+http://www.fst.umac.mo/wic2012/WI/
+
+A Special Event of the Alan Turing Year 
+(Centenary of Alan Turing's birth)  
+as part of World Intelligence Congress 2012
+
+Turing Keynote Speaker: Edward Feigenbaum  
+(1994 Turing Award Winner) 
+
+Important Dates:
+Electronic submission of full papers: June 1, 2012 
+Workshop paper submission: June 25, 2012  
+Tutorial proposal submission: July 10, 2012 
+Notification of paper acceptance: August 1, 2012  
+Camera-ready of accepted papers: August 31, 2012 
+Workshops: December 4, 2012  
+Conference: December 5-7, 2012
+####################################################################
+
+WI'12 provides a leading international forum to bring together
+researchers and practitioners from diverse fields, to increase the
+cross-fertilization of ideas and explore the fundamental roles,
+interactions as well as practical impacts of Artificial Intelligence
+engineering and Advanced Information Technology on the next generation
+of Web systems.
+
+Here AI-engineering is a general term that refers to a new area,
+slightly beyond traditional AI: brain informatics, human level AI,
+intelligent agents, social network intelligence and classical areas,
+such as knowledge engineering, knowledge representation, planning,
+knowledge discovery and data mining are examples.  Advanced
+Information Technology includes wireless networks, ubiquitous devices,
+social networks, data/knowledge grids, as well as service oriented
+architecture, cloud computing.
+
+Web Intelligence has been recognized as one of the most important as
+well as promising direction for scientific research and development in
+the era of Web and agent intelligence to bring in the next generation
+Web systems.  The IEEE/WIC/ACM WI-IAT 2012 joint conferences
+(WI-IAT'12) will co-locate with AMT'12, BI'12, and ISMIS'12 as a
+Congress, a Special Event of the Alan Turing Year (Centenary of Alan
+Turing's birth).  The Congress will have a joint opening, keynotes,
+reception and banquet.
+
+The topics and areas include, but not limited to:
+1) Web Intelligence Foundations 
+2) World Wide Wisdom Web  
+3) Web Information Retrieval and Filtering 
+4) Knowledge Grids and Grid Intelligence 
+5) Semantics and Ontology Engineering 
+6) Intelligent Human-Web Interaction 
+7) Web Mining and Farming 
+8) Social Networks 
+9) Ubiquitous Intelligence
+10) Web Agents 
+11) Web Services 
+12) Web Support Systems 
+13) Intelligent E-Technology
+
+High-quality papers in all WI related areas are solicited.  Paper
+submissions should be limited to a maximum of 8 pages in the IEEE
+2-column format.  The same format will be used for final camera-ready
+papers (see the Author Guidelines at
+http://www.computer.org/portal/web/cscps/formatting).
+
+All submitted papers will be reviewed by the Program Committee on the
+basis of technical quality, relevance, significance, and clarity.
+
+Note that WI'2012 will accept ONLY on-line submissions in PDF
+format. Accepted papers will be published in the conference
+proceedings by the IEEE Computer Society Press that is indexed by EI.
+
+*** Contact Information ***
+Ryan Leang Hou U, University of Macau
+Email: ryanlhu@umac.mo
+
+________________________________________________________________________
+To unsubscribe, please send an email to unsubscribe@wi-lab.com 
+with the subject: unsubscribe
+

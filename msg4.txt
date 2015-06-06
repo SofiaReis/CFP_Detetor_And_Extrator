@@ -1,0 +1,115 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: rosaldo.rossetti@gmail.com
+Received: by 10.152.1.233 with SMTP id 9cs208988lap;
+        Sun, 15 Jan 2012 08:51:37 -0800 (PST)
+Received: by 10.216.131.141 with SMTP id m13mr2255128wei.30.1326646295381;
+        Sun, 15 Jan 2012 08:51:35 -0800 (PST)
+Return-Path: <owner-simsoc@jiscmail.ac.uk>
+Received: from ictmailer1.itd.rl.ac.uk (ictmailer1.itd.rl.ac.uk. [130.246.192.56])
+        by mx.google.com with ESMTP id m10si8682386wbh.17.2012.01.15.08.51.34;
+        Sun, 15 Jan 2012 08:51:34 -0800 (PST)
+Received-SPF: pass (google.com: domain of owner-simsoc@jiscmail.ac.uk designates 130.246.192.56 as permitted sender) client-ip=130.246.192.56;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of owner-simsoc@jiscmail.ac.uk designates 130.246.192.56 as permitted sender) smtp.mail=owner-simsoc@jiscmail.ac.uk
+Received: from LISTSERV.JISCMAIL.AC.UK (jiscmail.ac.uk) by ictmailer1.itd.rl.ac.uk (LSMTP for Windows NT v1.1b) with SMTP id <8.00BA4C95@ictmailer1.itd.rl.ac.uk>; 15 Jan 2012 16:51:34 +0000
+Received: by JISCMAIL.AC.UK (LISTSERV-TCP/IP release 16.0) with spool id
+          217909771 for SIMSOC@JISCMAIL.AC.UK; Sun, 15 Jan 2012 16:51:32 +0000
+Received: from bifur.jiscmail.ac.uk (bifur.jiscmail.ac.uk [130.246.193.104]) by
+          JISCMAIL.AC.UK (SMTPL release 1.1c) (envelope-from
+          <gwainer@dc.uba.ar>) for simsoc@listserv.jiscmail.ac.uk with TCP;
+          Sun, 15 Jan 2012 16:51:32 GMT
+X-RAL-MFrom: <gwainer@dc.uba.ar>
+X-RAL-Connect: <smtp-2.dc.uba.ar [157.92.27.62]>
+Received: from smtp-2.dc.uba.ar (smtp-2.dc.uba.ar [157.92.27.62]) by
+          bifur.jiscmail.ac.uk (8.13.1/8.13.1) with ESMTP id q0FGpRFu005710 for
+          <simsoc@jiscmail.ac.uk>; Sun, 15 Jan 2012 16:51:31 GMT
+Received: (qmail 13626 invoked from network); 15 Jan 2012 16:51:25 -0000
+Received: from unknown (HELO webmail.dc.uba.ar) ([10.0.0.31]) (envelope-sender
+          <gwainer@dc.uba.ar>) by smtp-2.dc.uba.ar (qmail-ldap-1.03) with SMTP
+          for <simsoc@jiscmail.ac.uk>; 15 Jan 2012 16:51:25 -0000
+Received: from 184.145.104.20 (SquirrelMail authenticated user gwainer) by
+          webmail.dc.uba.ar with HTTP; Sun, 15 Jan 2012 13:51:25 -0300 (ART)
+User-Agent: SquirrelMail/1.4.6
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+X-Priority: 3 (Normal)
+Importance: Normal
+X-CCLRC-SPAM-report: 0 :
+X-Scanned-By: MIMEDefang 2.57 on 130.246.193.104
+Content-Transfer-Encoding: quoted-printable
+X-MIME-Autoconverted: from 8bit to quoted-printable by bifur.jiscmail.ac.uk id
+                      q0FGpRFu005710
+Message-ID:  <49820.184.145.104.20.1326646285.squirrel@webmail.dc.uba.ar>
+Date:         Sun, 15 Jan 2012 13:51:25 -0300
+Reply-To:     gwainer@DC.UBA.AR
+Sender:       News and discussion about computer simulation in the social sciences <SIMSOC@JISCMAIL.AC.UK>
+From:         "G. Wainer" <gwainer@DC.UBA.AR>
+Subject: [SIMSOC] Workshop on Modeling and Simulation on Grid and Cloud Computing  (CCGRID 2102) - Extended Deadline
+To:           SIMSOC@JISCMAIL.AC.UK
+Precedence: list
+List-Help: <http://jiscmail.ac.uk/cgi-bin/webadmin?LIST=SIMSOC>,
+           <mailto:LISTSERV@JISCMAIL.AC.UK?body=INFO%20SIMSOC>
+List-Unsubscribe: <mailto:SIMSOC-unsubscribe-request@JISCMAIL.AC.UK>
+List-Subscribe: <mailto:SIMSOC-subscribe-request@JISCMAIL.AC.UK>
+List-Owner: <mailto:SIMSOC-request@JISCMAIL.AC.UK>
+List-Archive: <http://jiscmail.ac.uk/cgi-bin/webadmin?LIST=SIMSOC>
+
+Workshop on Modeling and Simulation on Grid and Cloud Computing, MSGC2012
+(part of CCGRID 2102)
+May 13-16 2012, Ottawa, ON, Canada.
+CALL FOR PAPERS - NEW DEADLINE EXTENDED
+
+http://www.sce.carleton.ca/faculty/wainer/MSGC2012
+
+Sponsored by the IEEE, ACM and IEEE TCSC
+
+
+The Workshop on Modeling and Simulation on Grid and Cloud Computing,
+MSGC2012, focuses on the current challenges faced by the M&S community in
+order to use advanced Grid and Cloud methodologies and middleware.
+
+This workshop is motivated by the challenges brought by this new
+participative model. Although the Grid and Cloud computing paradigms
+introduced new ways of sharing computing power and storage in
+heterogeneous environments, there are still many open questions in this
+research area.
+
+The objective is to bring experts in the field to address open questions
+in this area. Topics include (but are not limited to):
+- Web Services, SOA and simulation
+- Simulation Middleware
+- Simulation Mashups using Grid and Cloud Computing
+- Wokflows for distributed simulation on the grid  
+- Service Composition and Simulation
+- Composability and mashups using distributed simulation middleware on the grid
+- Simulation Data Management in Cloud Computing Environments
+- Interfacing Simulation with Web 2.0 Technologies
+- Grid and Cloud Simulation Tools and Environments
+
+Submission Procedures:
+The conference committee will accept full papers submitted as a PDF file
+to the conference website
+(https://www.easychair.org/conferences/?conf=3Dmsgc2012). All the submitt=
+ed
+papers will be peer reviewed with respect to their quality, originality
+and relevance.
+
+Important Dates:
+Submission of full papers:    	February 15th, 2012
+Notification of acceptance:   	March 1st 2012
+Final manuscript: 		   	March 15th, 2012
+
+General Chair
+Gabriel A. Wainer (Carleton University, Ottawa, Canada)
+
+Co-Chairs
+David R. C. Hill (ISIMA, Universit=E9 Blaise-Pascal, France)
+Simon Taylor  (Brunel University, UK)
+
+
+Further information in the Conference website
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+http://www.sce.carleton.ca/faculty/wainer/MSGC2012
+
+[Apologies for multiple postings]
+[problems/issues: contact vsim-conf-owner@sce.carleton.ca]

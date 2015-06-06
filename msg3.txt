@@ -1,0 +1,153 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: rosaldo.rossetti@gmail.com
+Received: by 10.223.157.69 with SMTP id a5csp67878fax;
+        Thu, 17 May 2012 07:10:47 -0700 (PDT)
+Received: by 10.180.85.129 with SMTP id h1mr18772213wiz.2.1337263847060;
+        Thu, 17 May 2012 07:10:47 -0700 (PDT)
+Return-Path: <failure@wi-consortium.org>
+Received: from smtp.fe.up.pt (smtp.fe.up.pt. [193.136.28.30])
+        by mx.google.com with ESMTP id 71si7540241wej.31.2012.05.17.07.10.46;
+        Thu, 17 May 2012 07:10:46 -0700 (PDT)
+Received-SPF: neutral (google.com: 193.136.28.30 is neither permitted nor denied by domain of failure@wi-consortium.org) client-ip=193.136.28.30;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 193.136.28.30 is neither permitted nor denied by domain of failure@wi-consortium.org) smtp.mail=failure@wi-consortium.org
+Received: from localhost (localhost [127.0.0.1])
+	by smtp.fe.up.pt (Postfix) with ESMTP id 8D6C07013
+	for <rosaldo.rossetti@gmail.com>; Thu, 17 May 2012 15:10:46 +0100 (WEST)
+Received: from smtp.fe.up.pt ([127.0.0.1])
+	by localhost (smtp2.fe.up.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 9pdtjbs-1i8n for <rosaldo.rossetti@gmail.com>;
+	Thu, 17 May 2012 15:10:46 +0100 (WEST)
+Received: from mbx1.fe.up.pt (mail.fe.up.pt [193.136.28.29])
+	by smtp.fe.up.pt (Postfix) with ESMTP id 79A896E8A
+	for <rosaldo.rossetti@gmail.com>; Thu, 17 May 2012 15:10:46 +0100 (WEST)
+Received: by mbx1.fe.up.pt (Postfix, from userid 33513)
+	id 7433E71241; Thu, 17 May 2012 15:10:46 +0100 (WEST)
+X-Sieve: Dovecot Sieve 0.1.18
+X-Original-To: rossetti@mail.fe.up.pt
+Delivered-To: rossetti@mail.fe.up.pt
+Received: from relay1.fe.up.pt (relay1.fe.up.pt [193.136.28.33])
+	by mbx1.fe.up.pt (Postfix) with ESMTP id 617387123F
+	for <rossetti@mail.fe.up.pt>; Thu, 17 May 2012 15:10:46 +0100 (WEST)
+Received: from localhost (localhost [127.0.0.1])
+	by relay1.fe.up.pt (Postfix) with ESMTP id 5C1CE20BC0CD
+	for <rossetti@fe.up.pt>; Thu, 17 May 2012 15:10:46 +0100 (WEST)
+X-Virus-Scanned: amavisd-new at fe.up.pt
+X-Spam-Flag: NO
+X-Spam-Score: -0.011
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.011 tagged_above=-999 required=4.2
+	tests=[SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=disabled
+Received: from relay1.fe.up.pt ([127.0.0.1])
+	by localhost (relay1.fe.up.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 8HKd+nGbYROx for <rossetti@fe.up.pt>;
+	Thu, 17 May 2012 15:10:40 +0100 (WEST)
+Received: from www.wi-consortium.org (www.wi-consortium.org [74.54.18.82])
+	by relay1.fe.up.pt (Postfix) with SMTP id 9097820BC0CE
+	for <rossetti@fe.up.pt>; Thu, 17 May 2012 15:10:39 +0100 (WEST)
+Received: (qmail 10795 invoked by uid 48); 17 May 2012 23:02:36 +0900
+Date: 17 May 2012 23:02:36 +0900
+Message-ID: <20120517140236.10794.qmail@www.wi-consortium.org>
+To: rossetti@fe.up.pt
+Subject: Brain Informatics 2012 - Final Call for Papers
+From: wic-office@wi-consortium.org
+Reply-To: no-reply@wi-consortium.org
+
+
+[Apologies if you receive this more than once]
+
+******************************************************************
+Final Call For Papers
+
+The 2012 International Conference on Brain Informatics (BI'12)
+
+December 4-7, 2012, Macau SAR, China
+http://www.fst.umac.mo/wic2012/BI/
+
+A Special Event of the Alan Turing Year 
+(Centenary of Alan Turing's birth)  
+as part of World Intelligence Congress 2012
+
+Turing Keynote Speaker: Edward Feigenbaum  
+(1994 Turing Award Winner) 
+
+Important Dates:
+Electronic submission of full papers:  June 1, 2012
+Notification of paper acceptance:      August 1, 2012
+Camera-ready of accepted papers:       August 31, 2012
+Workshops:                             December 4, 2012
+Conference:                            December 5-7, 2012
+******************************************************************
+
+BI 2012 provides a leading international forum to bring together
+researchers and practitioners that explore the interplay between
+the studies of human brain and the research of informatics.
+On the one hand, research of informatics opens a new avenue for
+modeling and characterizing the human brain based on the
+notions of information processing systems.  On the other hand,
+informatics-enabled brain studies, e.g., based on fMRI, EEG, and
+MEG, significantly broaden the spectrum of theories and models
+of brain sciences and offer new insights into the development of
+systems with human-level intelligence.
+
+Web Intelligence centric information technologies are applied to
+support brain science studies. For instance, the wisdom Web and
+knowledge grids enable high-speed, large-scale analysis, simulation,
+and computation as well as new ways of sharing research data
+and scientific discoveries.
+
+Topics
+------------------------------------
+High-quality papers in all BI related areas are solicited.
+The topics and areas include, but not limited to:
+- Human reasoning mechanisms
+- Human learning mechanisms
+- Human higher cognitive functions
+- Systematic design of cognitive experiments
+- HIPS meets complex systems
+- Databasing the brain and constructing data brain models
+- Formal conceptual models of human brain data
+- Multi-media brain data mining
+- Multi-aspect analysis in fMRI/EEG/MEG/PET
+
+Papers exploring new directions will receive a careful and supportive
+review. All submitted papers will be reviewed on the basis of technical
+quality, relevance, significance, and clarity.
+
+On-line Submissions and Publication
+------------------------------------
+The proceeding of the conference will be published by Springer
+as a volume of the series of Lecture Notes in Computer Science/Lecture
+Notes in Artificial Intelligence (LNCS/LNAI).
+
+Authors are strongly encouraged to use Springer LNCS/LNAI manuscript
+submission guidelines (http://www.springer.de/comp/lncs/authors.html)
+or their initial submissions (a maximum of 12 pages in Springer
+LNCS/LNAI style file).  All papers must be submitted electronically
+in PDF format only, using the conference management tool.
+
+A selected number of the best papers from BI'12 will be expanded and
+revised for possible inclusion in "Knowledge and Information Systems:
+An International Journal" (http://www.cs.uvm.edu/~kais/) by Springer
+and "Cognitive Systems Research: An International Journal"
+(http://www.sciencedirect.com/science/journal/13890417) by Elsevier.
+
+Awards
+------
+BI 2012 best paper awards and student paper awards will be
+conferred on the authors at the conference.
+
+Notes
+-----
+The BI 2012 will co-locate with WI'12, IAT'12, AMT'12, and ISMIS'12
+as a Congress, a Special Event of the Alan Turing Year (Centenary
+of Alan Turing's birth). The Congress will have a joint opening,
+keynotes, reception and banquet.
+
+*** Contact Information ***
+Fabio Massimo Zanzotto (University of Rome "Tor Vergata", Italy)
+<fabio.massimo.zanzotto@uniroma2.it>
+
+________________________________________________________________________
+To unsubscribe, please send an email to unsubscribe@wi-lab.com 
+with the subject: unsubscribe
+

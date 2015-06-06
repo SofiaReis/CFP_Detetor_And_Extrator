@@ -1,0 +1,146 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: rosaldo.rossetti@gmail.com
+Received: by 10.152.1.233 with SMTP id 9cs209602lap;
+        Sun, 15 Jan 2012 10:41:31 -0800 (PST)
+Received: by 10.216.138.73 with SMTP id z51mr3588897wei.55.1326652890020;
+        Sun, 15 Jan 2012 10:41:30 -0800 (PST)
+Return-Path: <owner-simsoc@jiscmail.ac.uk>
+Received: from ictmailer1.itd.rl.ac.uk (ictmailer1.itd.rl.ac.uk. [130.246.192.56])
+        by mx.google.com with ESMTP id s6si10314688wiy.39.2012.01.15.10.41.28;
+        Sun, 15 Jan 2012 10:41:30 -0800 (PST)
+Received-SPF: pass (google.com: domain of owner-simsoc@jiscmail.ac.uk designates 130.246.192.56 as permitted sender) client-ip=130.246.192.56;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of owner-simsoc@jiscmail.ac.uk designates 130.246.192.56 as permitted sender) smtp.mail=owner-simsoc@jiscmail.ac.uk
+Received: from LISTSERV.JISCMAIL.AC.UK (jiscmail.ac.uk) by ictmailer1.itd.rl.ac.uk (LSMTP for Windows NT v1.1b) with SMTP id <4.00BA4DAD@ictmailer1.itd.rl.ac.uk>; 15 Jan 2012 18:41:28 +0000
+Received: by JISCMAIL.AC.UK (LISTSERV-TCP/IP release 16.0) with spool id
+          217912178 for SIMSOC@JISCMAIL.AC.UK; Sun, 15 Jan 2012 18:41:27 +0000
+Received: from bofur.jiscmail.ac.uk (bofur.jiscmail.ac.uk [130.246.193.105]) by
+          JISCMAIL.AC.UK (SMTPL release 1.1c) (envelope-from
+          <fsondahl@gmail.com>) for SIMSOC@listserv.jiscmail.ac.uk with TCP;
+          Sun, 15 Jan 2012 18:31:27 GMT
+X-RAL-MFrom: <fsondahl@gmail.com>
+X-RAL-Connect: <mail-vx0-f174.google.com [209.85.220.174]>
+Received: from mail-vx0-f174.google.com (mail-vx0-f174.google.com
+          [209.85.220.174]) by bofur.jiscmail.ac.uk (8.13.1/8.13.1) with ESMTP
+          id q0FIVMb9026638 for <SIMSOC@jiscmail.ac.uk>; Sun, 15 Jan 2012
+          18:31:25 GMT
+Received: by vcbfo1 with SMTP id fo1so824420vcb.33 for <SIMSOC@jiscmail.ac.uk>;
+          Sun, 15 Jan 2012 10:31:22 -0800 (PST)
+Received: by 10.52.71.33 with SMTP id r1mr4237643vdu.113.1326652281279; Sun, 15
+          Jan 2012 10:31:21 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.220.176.11 with HTTP; Sun, 15 Jan 2012 10:31:00 -0800 (PST)
+References: <CAG_mutNfRRibpVERGNLHn=J33YqmVGXRP9fZ7jSSeZJUS_VV1A@mail.gmail.com>
+            <CAG_mutPg_2+5SN9sz-GZr3fLyscLkFBjjZ8aLxX=q6QGoydpkw@mail.gmail.com>
+            <CAG_mutNG7JHbara-bTkyziDPpcny5adQeVtcpXRgs==157sPUQ@mail.gmail.com>
+X-Google-Sender-Auth: Xo_DOn0vxxW35ha5wcuiux-4U9o
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-CCLRC-SPAM-report: -0.001 : SPF_PASS
+X-Scanned-By: MIMEDefang 2.61 on 130.246.193.105
+Message-ID:  <CAG_mutOtUkczUgeg17Mrw5RJeV2L=RCy3k-YqksKBXo32ud3zw@mail.gmail.com>
+Date:         Sun, 15 Jan 2012 13:31:00 -0500
+Reply-To:     Forrest Stonedahl <forrest@U.NORTHWESTERN.EDU>
+Sender:       News and discussion about computer simulation in the social sciences <SIMSOC@JISCMAIL.AC.UK>
+From:         Forrest Stonedahl <forrest@U.NORTHWESTERN.EDU>
+Subject: [SIMSOC] CFP: Evolutionary Computation and Multi-Agent Systems/Simulation Workshop
+To:           SIMSOC@JISCMAIL.AC.UK
+In-Reply-To:  <CAG_mutNG7JHbara-bTkyziDPpcny5adQeVtcpXRgs==157sPUQ@mail.gmail.com>
+Precedence: list
+List-Help: <http://jiscmail.ac.uk/cgi-bin/webadmin?LIST=SIMSOC>,
+           <mailto:LISTSERV@JISCMAIL.AC.UK?body=INFO%20SIMSOC>
+List-Unsubscribe: <mailto:SIMSOC-unsubscribe-request@JISCMAIL.AC.UK>
+List-Subscribe: <mailto:SIMSOC-subscribe-request@JISCMAIL.AC.UK>
+List-Owner: <mailto:SIMSOC-request@JISCMAIL.AC.UK>
+List-Archive: <http://jiscmail.ac.uk/cgi-bin/webadmin?LIST=SIMSOC>
+
+=A0 =A0 =A0 =A0 =A0 =A0 - CALL FOR PAPERS - CALL FOR PAPERS -
+
+=A0 =A0 =A0 =A0 =A0 =A0 =A0 =A0 =A0 =A0SIXTH ANNUAL WORKSHOP ON
+=A0 =A0 =A0 =A0 =A0Evolutionary Computation and Multi-Agent Systems
+=A0 =A0 =A0 =A0 =A0 =A0 =A0 and Simulation Workshop (ECoMASS-2012)
+
+=A0 =A0 =A0 =A0 =A0 =A0 =A0 =A0 =A0 =A0 to be held as part of the
+
+=A02012 Genetic and Evolutionary Computation Conference (GECCO-2012)
+=A0 =A0 =A0 =A0 =A0 =A0 =A0 =A0 July 7-11, Philadelphia, PA, USA
+=A0 =A0 =A0 =A0 =A0 =A0 =A0 =A0 =A0 =A0 Organized by ACM SIGEVO
+=A0 =A0 =A0 =A0 =A0 =A0 =A0 =A0 http://www.sigevo.org/gecco-2012
+
+=A0 =A0PAPER SUBMISSION DEADLINE FOR WORKSHOP: March 28, 2012
+
+=A0 =A0 =A0 Workshop URL: http://www.cscs.umich.edu/ecomass/
+
+--------------------------------------------------------------------
+Evolutionary computation (EC) and multi-agent systems and simulation
+(MASS) both involve populations of agents. EC is a learning technique
+by which a population of individual agents adapt according to the
+selection pressures exerted by an environment; MASS seeks to
+understand how to coordinate the actions of a population of (possibly
+selfish) autonomous agents that share an environment so that some
+outcome is achieved. Both EC and MASS have top-down and bottom-up
+features. For example, some aspects of multi-agent system engineering
+(e.g., mechanism design) are concerned with how top-down structure can
+constrain or influence individual decisions. Similarly, most work in
+EC is concerned with how to engineer selective pressures to drive the
+evolution of individual behavior towards some desired goal. Multi-agent
+simulation (also called agent-based modeling) addresses the bottom-up
+issue of how collective behavior emerges from individual action.
+Likewise, the study of evolutionary dynamics within EC (for example in
+coevolution) often considers how population-level phenomena emerge from
+individual-level interactions. Thus, at a high level, we may view EC and
+MASS as examining and utilizing analogous processes. It is therefore
+natural to consider how knowledge gained within EC may be relevant to
+MASS, and vice versa; indeed, applications and techniques from one field
+have often made use of technologies and algorithms from the other field.
+Studying EC and MASS in combination is warranted and has the potential
+to contribute to both fields.
+
+The goal of this workshop is to facilitate the examination and
+development of techniques at the intersection of evolutionary
+computation and multi-agent systems and simulation.
+
+The ECoMASS workshop welcomes original submissions in the theory and
+practice on all aspects of Evolutionary Computation and Multi-Agent
+Systems and Simulation, which include (but are not limited to) the
+following topics and themes:
+
+- Multi-agent systems and agent-based models utilizing evolutionary computation
+- Optimization of multi-agent systems and agent-based models using evolutionary computation
+- Evolutionary computation models which rely not on explicit fitness functions but rather implicit fitness functions defined by the relationship to other individuals / agents
+- Applications utilizing MASS and EC in combination
+- Biological agent-based models (usually called individual-based models) involving evolution
+- Evolution of cooperation and altruism
+- Genotypic representation of the complex phenotypic strategies of MASS
+- Evolutionary learning within MASS (including Baldwinian learning and phenotypic plasticity)
+- Emergence and feedbacks
+- Open-ended strategy spaces and evolution
+- Adaptive individuals within evolving populations
+
+*Paper Submission
+Each accepted paper will be presented orally at the workshop and
+distributed in the workshop proceedings to all GECCO attendees. Authors
+should follow the format of the GECCO manuscript style; refer to
+http://www.sigevo.org/gecco-2012/ for details. Manuscripts should not
+exceed 8 pages. Papers should be submitted by 28 March, 2012 in
+PostScript or PDF format to: forrest.stonedahl@centre.edu
+
+*Important Dates
+Paper submission deadline: 28 March, 2012
+Notification of acceptance: April 9, 2012
+Camera-Ready Accepted Papers Due: April 16, 2012
+
+*Workshop Chairs
+Forrest Stonedahl, Centre College
+Rick Riolo, University of Michigan
+
+GECCO is sponsored by the Association for Computing Machinery Special
+Interest Group on Genetic and Evolutionary Computation (SIGEVO). SIG
+Services: 2 Penn Plaza, Suite 701, New York, NY, 10121, USA,
+1-800-342-6626=A0(USA and Canada) or +212-626-0500 (Global).
+
+--
+Forrest Stonedahl (forrest.stonedahl@centre.edu)
+Assistant Professor of Computer Science and Mathematics
+Centre College (http://www.centre.edu/)
+
+Website: http://forrest.stonedahl.com/

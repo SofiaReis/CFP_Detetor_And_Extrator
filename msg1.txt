@@ -1,0 +1,175 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: rosaldo.rossetti@gmail.com
+Received: by 10.223.157.69 with SMTP id a5csp28239fax;
+        Fri, 11 May 2012 03:50:57 -0700 (PDT)
+Received: by 10.180.8.231 with SMTP id u7mr6514245wia.9.1336733457185;
+        Fri, 11 May 2012 03:50:57 -0700 (PDT)
+Return-Path: <pleitao@ipb.pt>
+Received: from smtp.fe.up.pt (smtp.fe.up.pt. [193.136.28.30])
+        by mx.google.com with ESMTP id x1si7097852wiy.3.2012.05.11.03.50.57;
+        Fri, 11 May 2012 03:50:57 -0700 (PDT)
+Received-SPF: fail (google.com: domain of pleitao@ipb.pt does not designate 193.136.28.30 as permitted sender) client-ip=193.136.28.30;
+Authentication-Results: mx.google.com; spf=hardfail (google.com: domain of pleitao@ipb.pt does not designate 193.136.28.30 as permitted sender) smtp.mail=pleitao@ipb.pt
+Received: from localhost (localhost [127.0.0.1])
+	by smtp.fe.up.pt (Postfix) with ESMTP id C81666BE4
+	for <rosaldo.rossetti@gmail.com>; Fri, 11 May 2012 11:50:56 +0100 (WEST)
+Received: from smtp.fe.up.pt ([127.0.0.1])
+	by localhost (smtp1.fe.up.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id cxzEE9FlzIak for <rosaldo.rossetti@gmail.com>;
+	Fri, 11 May 2012 11:50:56 +0100 (WEST)
+Received: from mbx3.fe.up.pt (mail.fe.up.pt [193.136.28.29])
+	by smtp.fe.up.pt (Postfix) with ESMTP id AB61D6BBB
+	for <rosaldo.rossetti@gmail.com>; Fri, 11 May 2012 11:50:56 +0100 (WEST)
+Received: by mbx3.fe.up.pt (Postfix, from userid 33513)
+	id A508A7123C; Fri, 11 May 2012 11:50:56 +0100 (WEST)
+X-Sieve: Dovecot Sieve 0.1.18
+X-Original-To: rossetti@mail.fe.up.pt
+Delivered-To: rossetti@mail.fe.up.pt
+Received: from relay2.fe.up.pt (relay2.fe.up.pt [193.136.28.34])
+	by mbx3.fe.up.pt (Postfix) with ESMTP id 9F0F0711E0
+	for <rossetti@mail.fe.up.pt>; Fri, 11 May 2012 11:50:56 +0100 (WEST)
+Received: from localhost (localhost [127.0.0.1])
+	by relay2.fe.up.pt (Postfix) with ESMTP id 986AD249408B
+	for <rossetti@fe.up.pt>; Fri, 11 May 2012 11:50:56 +0100 (WEST)
+X-Virus-Scanned: amavisd-new at fe.up.pt
+X-Spam-Flag: NO
+X-Spam-Score: 0.889
+X-Spam-Level: 
+X-Spam-Status: No, score=0.889 tagged_above=-999 required=4.2
+	tests=[SPF_PASS=-0.001, SUBJ_ALL_CAPS=0.9, T_RP_MATCHES_RCVD=-0.01]
+	autolearn=disabled
+Received: from relay2.fe.up.pt ([127.0.0.1])
+	by localhost (relay2.fe.up.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id R3nUD8KHclWi for <rossetti@fe.up.pt>;
+	Fri, 11 May 2012 11:50:51 +0100 (WEST)
+Received: from blade02.ccom.ipb.pt (blade02.ccom.ipb.pt [193.136.195.241])
+	by relay2.fe.up.pt (Postfix) with ESMTP id 4D6D2249408A
+	for <rossetti@fe.up.pt>; Fri, 11 May 2012 11:50:51 +0100 (WEST)
+Received: from localhost (localhost [127.0.0.1])
+	by blade02.ccom.ipb.pt (Postfix) with ESMTP id 5F3CE2EA06B;
+	Fri, 11 May 2012 11:50:50 +0100 (WEST)
+X-Virus-Scanned: amavisd-new at ipb.pt
+Received: from blade02.ccom.ipb.pt ([127.0.0.1])
+	by localhost (blade02.ccom.ipb.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id SX9fitTJdowu; Fri, 11 May 2012 11:50:50 +0100 (WEST)
+Received: from [IPv6:2001:690:22c0:8201:e13b:ab7:5d6d:417d] (unknown [IPv6:2001:690:22c0:8201:e13b:ab7:5d6d:417d])
+	(using TLSv1 with cipher DHE-RSA-CAMELLIA256-SHA (256/256 bits))
+	(No client certificate requested)
+	(Authenticated sender: pleitao)
+	by blade02.ccom.ipb.pt (Postfix) with ESMTPSA id 255042EA033;
+	Fri, 11 May 2012 11:50:50 +0100 (WEST)
+Message-ID: <4FACEF0B.6030406@ipb.pt>
+Date: Fri, 11 May 2012 11:50:51 +0100
+From: =?ISO-8859-1?Q?Paulo_Leit=E3o?= <pleitao@ipb.pt>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20120428 Thunderbird/12.0.1
+MIME-Version: 1.0
+To: ieee-ies-tcia@ipb.pt, rossetti@fe.up.pt, =?ISO-8859-1?Q?Jos=E9_Barb?=
+ =?ISO-8859-1?Q?osa?= <jbarbosa@ipb.pt>
+Subject: CALL FOR PAPERS - TOASTS @ SASO 2012
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+
+
+                    (Apologies for cross-posting)
+
+
+**********************************************************************
+
+     CALL FOR PAPERS - TOASTS @ SASO 2012
+
+     Workshop on Technologies for the Organisation,
+     Adaptation and Simulation of Transportation Systems
+
+     September 14, 2012, Lyon, France
+
+     http://www.iis.ee.ic.ac.uk/TOASTS
+
+     Deadline for submission: 4 July 2012
+
+**********************************************************************
+
+Year after year we are witnessing an increasing mobility of people
+and goods around the globe, from everyday commuting, to holiday trips,
+food and good distribution, and transportation related to ageing and
+public health, among many others. All this trips can be made by many
+different means of transportation (airplanes, public transport, private
+cars, car pooling, public bicycles, etc.), each of them with its own
+characteristics, advantages and disadvantages. As a consequence, the
+management of the transportation system as a whole becomes a very
+complex task, and it requires a better knowledge of users' travels
+and behaviours as well as their interactions with their environment.
+To carry out this work, modeling methods and simulation tools are
+playing an increasingly importance for infrastructure design, network
+  operation and new mobile services. In addition, the increasing pressure
+  to mitigate the climate change has a major impact on logistics, and
+companies world-wide must rethink their distribution strategies to
+reduce their carbon footprint.
+
+In light of this, self-adaptive and self-organising systems seem to
+be very appropriate. On one hand, self-adaptive systems allow the
+transportation systems to continuously adapt and cope with the dynamism
+  of the environment (changing traffic conditions, dynamic demand,
+accidents, etc.). On the other hand, self-organising systems let the
+different involved actors to organise themselves, trying to achieve
+their goals without the need of a central authority forcing them to
+adopt a given behaviour. Also, the design of urban development and
+deployment of digital services can be expressed as of complex and
+self-* systems by the number and nature of the entities involved,
+their interactions and their respective dynamics.
+
+TOPICS OF INTEREST
+
+The purpose of this workshop is to bring researchers and practitioners
+together in order to set up visions on how methods and tools can be
+used for ground transportation applications. Relevant topics include (but
+are not limited to):
+
+- Self-* principles in traffic and transportation systems
+- Agent-based and multi-agent systems for traffic and intelligent vehicles
+- Distributed decision making in traffic and transportation
+- New digital services and agents in transportation systems
+- Agent-based approaches to modelling driver and pedestrian behaviour
+- Enactive systems in ground transportation
+- Intelligent routing systems
+- Traffic management systems
+- Variable message sign systems
+- Vehicle to vehicle communication systems
+- Public transport management systems
+- Autonomic supply chain systems
+
+SUBMISSION
+
+- Deadline for submission: 4 July 2012
+- Acceptance notification: 25 July 2012
+- Early registration deadline: 20 August 2012
+- Camera-ready papers: 24 August 2012
+
+The length of the papers may not exceed 6 pages including references and
+must follow the IEEE Computer Society Press proceedings style guide. Papers
+should be submitted in PDF format using the EasyChair system. In case of
+acceptance, at least one author must attend the workshop to present it.
+More information on how to format and submit the paper is available in
+the workshop website: http://www.iis.ee.ic.ac.uk/TOASTS
+
+ORGANISING COMMITTEE
+
+- Jean-Michel Auberlet, IFSTTAR (France)
+- D�dac Busquets, Imperial College London (UK)
+- Emmanuelle Grislin-Le Strugeon, LAMIH, Valenciennes (France)
+- Paulo Leitao, Polytechnic Institute of Bragan�a (Portugal)
+
+CONTACT
+
+Visit the workshop website for contact details: 
+http://www.iis.ee.ic.ac.uk/TOASTS
+
+
+--------------------------------------------------------
+Paulo Leitao
+Polytechnic Institute of Bragan�a
+Quinta Sta Apol�nia, Apartado 1134
+5301-857 Bragan�a
+Portugal
+Telephone: +351-273303065 | Fax: +351-273313051
+URL: http://www.ipb.pt/~pleitao | e-mail: pleitao@ipb.pt
+

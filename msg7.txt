@@ -1,0 +1,524 @@
+                                                                                                                                                                                                                                                               
+Delivered-To: rosaldo.rossetti@gmail.com
+Received: by 10.223.6.144 with SMTP id 16csp100395faz;
+        Mon, 2 Apr 2012 04:09:36 -0700 (PDT)
+Received: by 10.180.107.101 with SMTP id hb5mr28017079wib.3.1333364973145;
+        Mon, 02 Apr 2012 04:09:33 -0700 (PDT)
+Return-Path: <eco@fe.up.pt>
+Received: from smtp.fe.up.pt (smtp.fe.up.pt. [193.136.28.30])
+        by mx.google.com with ESMTP id k51si18188633weq.1.2012.04.02.04.09.32;
+        Mon, 02 Apr 2012 04:09:32 -0700 (PDT)
+Received-SPF: pass (google.com: domain of eco@fe.up.pt designates 193.136.28.30 as permitted sender) client-ip=193.136.28.30;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of eco@fe.up.pt designates 193.136.28.30 as permitted sender) smtp.mail=eco@fe.up.pt
+Received: from localhost (localhost [127.0.0.1])
+	by smtp.fe.up.pt (Postfix) with ESMTP id 9245DEF930
+	for <rosaldo.rossetti@gmail.com>; Mon,  2 Apr 2012 12:09:32 +0100 (WEST)
+Received: from smtp.fe.up.pt ([127.0.0.1])
+	by localhost (smtp1.fe.up.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id liQC5oqxgTBi for <rosaldo.rossetti@gmail.com>;
+	Mon,  2 Apr 2012 12:09:32 +0100 (WEST)
+Received: from mbx2.fe.up.pt (mail.fe.up.pt [193.136.28.29])
+	by smtp.fe.up.pt (Postfix) with ESMTP id 61481EF947
+	for <rosaldo.rossetti@gmail.com>; Mon,  2 Apr 2012 12:09:32 +0100 (WEST)
+Received: by mbx2.fe.up.pt (Postfix, from userid 33513)
+	id 90599711EC; Mon,  2 Apr 2012 12:09:32 +0100 (WEST)
+X-Sieve: Dovecot Sieve 0.1.18
+X-Original-To: rossetti@mail.fe.up.pt
+Delivered-To: rossetti@mail.fe.up.pt
+Received: from smtp.fe.up.pt (smtp1.fe.up.pt [192.168.150.33])
+	by mbx2.fe.up.pt (Postfix) with ESMTP id 149DB711E0;
+	Mon,  2 Apr 2012 12:09:32 +0100 (WEST)
+Received: from localhost (localhost [127.0.0.1])
+	by smtp.fe.up.pt (Postfix) with ESMTP id AE0BFEF932;
+	Mon,  2 Apr 2012 12:09:31 +0100 (WEST)
+Received: from smtp.fe.up.pt ([127.0.0.1])
+	by localhost (smtp1.fe.up.pt [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id sag8S4tiByss; Mon,  2 Apr 2012 12:09:31 +0100 (WEST)
+Received: from [192.168.102.39] (simon.fe.up.pt [192.168.102.39])
+	by smtp.fe.up.pt (Postfix) with ESMTPA id 52CF3EF930;
+	Mon,  2 Apr 2012 12:09:31 +0100 (WEST)
+Message-ID: <4F7988EF.7070909@fe.up.pt>
+Date: Mon, 02 Apr 2012 12:09:35 +0100
+From: =?ISO-8859-1?Q?Eug=E9nio_Oliveira?= <eco@fe.up.pt>
+User-Agent: Mozilla/5.0 (Windows NT 6.0; rv:11.0) Gecko/20120312 Thunderbird/11.0
+MIME-Version: 1.0
+To: =?ISO-8859-1?Q?Eug=E9nio_Oliveira?= <eco@fe.up.pt>, 
+ arocha <arocha@fe.up.pt>,
+ lpreis <lpreis@fe.up.pt>, hlc <hlc@fe.up.pt>, malu <malu@ppgia.pucpr.br>, 
+ Luis Sarmento <las@fe.up.pt>,
+ =?ISO-8859-1?Q?C=E9lia_Talma_Martins?= <talma@fe.up.pt>, 
+ =?ISO-8859-1?Q?Ant=F3nio_Pereira?= <amcp@fe.up.pt>, 
+ Alexessander Couto Alves <alves@ieee.org>,
+ =?ISO-8859-1?Q?Andr=E9_Restivo?= <arestivo@fe.up.pt>, 
+ Antonio Castro <frisky.antonio@gmail.com>,
+ Luis Mota <luis.mota@iscte.pt>, Rosaldo Rossetti <rossetti@fe.up.pt>, 
+ mbnm <mbm@isep.ipp.pt>,
+ Rodrigo Braga <rodrigo.braga@fe.up.pt>, 
+ Pedro Valente <pedro.valente@fe.up.pt>,
+ Daniel Silva <pro06013@fe.up.pt>, Pedro Abreu <pedro.abreu@fe.up.pt>, 
+ Daniel Moura <daniel.moura@fe.up.pt>,
+ Joana Urbano <pro06011@fe.up.pt>, Francisco Restivo <frestivo@gmail.com>, 
+ =?ISO-8859-1?Q?Jo=E3o_Lobato_Oliveira?= <ee03123@fe.up.pt>, 
+ teixeira.jorge@fe.up.pt, 'Claudia-Melania Chituc' <cmchituc@fe.up.pt>, 
+ =?ISO-8859-1?Q?M=F3nica_Faria?= <moni.faria@gmail.com>, 
+ rmfmrodrigues@gmail.com, jbarbosa <jbarbosa@fe.up.pt>, 
+ =?ISO-8859-1?Q?Paulo_Leit=E3o?= <pleitao@ipb.pt>, 
+ Marcelo Petry <marcelo.petry@gmail.com>,
+ Rodrigo Braga <rodrigo.braga@fe.up.pt>, Pedro Neto <pro09012@fe.up.pt>, 
+ Gustavo Laboreiro <gustavo.laboreiro@gmail.com>,
+ Joaquim Silva <jffs.992@gmail.com>, =?ISO-8859-1?Q?L=FAcio_Passos?=
+ <pro09026@fe.up.pt>, Vasco Vinhas Moreira <vvm@fe.up.pt>, 
+ =?ISO-8859-1?Q?Ant=F3nio_Pedro_Costa?= <apcosta@ua.pt>, 
+ Pedro Vale Moreira <pmoreira@estg.ipvc.pt>,
+ Catarina Santiago <catarina.santiago@fe.up.pt>, =?ISO-8859-1?Q?Luis_Te?=
+ =?ISO-8859-1?Q?=F3filo?= <luisfgteofilo@gmail.com>, 
+ Paula Rego <paularego@estg.ipvc.pt>,
+ Fernando Almeida <falmeida@estv.ipv.pt>, 
+ zafeiris kokkinogenis <zafeiris.kokkinogenis@gmail.com>,
+ j.emilio.almeida@gmail.com, =?ISO-8859-1?Q?Jos=E9_Luis_Pereira?=
+ <onaips@gmail.com>, Ivo Timoteo <ivotimoteo@gmail.com>, 
+ =?ISO-8859-1?Q?Miguel_Ara=FAjo?= <miguel.araujo@fe.up.pt>, 
+ "Luis A. Sarmento" <luis-a-sarmento@telecom.pt>,
+ Nima Shafii <nima.shafii@gmail.com>, 
+ Pedro Vale Moreira <pmoreira@estg.ipvc.pt>
+Subject: Fwd: [mc] 1st CfP: AT 2012 -- First International Conference on Agreement
+ Technologies
+References: <4F76091F.9060804@urjc.es>
+In-Reply-To: <4F76091F.9060804@urjc.es>
+X-Forwarded-Message-Id: <4F76091F.9060804@urjc.es>
+Content-Type: multipart/signed; protocol="application/pkcs7-signature"; micalg=sha1; boundary="------------ms040104060000030502080004"
+
+This is a cryptographically signed message in MIME format.
+
+--------------ms040104060000030502080004
+Content-Type: multipart/alternative;
+ boundary="------------030300030508010606050609"
+
+This is a multi-part message in MIME format.
+--------------030300030508010606050609
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: quoted-printable
+
+
+
+-------- Original Message --------
+Subject: 	[mc] 1st CfP: AT 2012 -- First International Conference on=20
+Agreement Technologies
+Date: 	Fri, 30 Mar 2012 21:27:27 +0200
+From: 	Sascha Ossowski <sascha.ossowski@urjc.es>
+Organisation: 	CETINIA - URJC
+To: 	mc@agreement-technologies.eu
+
+
+
+[Apologies if you receive this more than once]
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+C A L L  F O R  P A P E R S
+AT 2012
+First International Conference on Agreement Technologies
+
+October 15 - 16, 2012 in Dubrovnik, Croatia
+http://at2012.tel.fer.hr/
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+AIMS&  SCOPE =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D
+
+Agreement Technologies refer to computer systems in which autonomous
+software agents negotiate with one another, typically on behalf of
+humans, in order to come to mutually acceptable agreements. An agent may
+choose whether to fulfil an agreement or not, and it should fulfil it
+when there is an obligation to do so derived from the standing
+agreements. Autonomy, interaction, mobility and openness are key
+concepts studied within the Agreement Technologies approach.
+
+Semantic alignment, negotiation, argumentation, virtual organisations,
+trust and reputation and several other technologies are part of the
+sandbox to define, specify and verify such systems. The first
+International Conference on Agreement Technologies is an
+interdisciplinary forum that brings together researchers and
+practitioners working on the various topics comprising this emergent and
+vibrant field. It provides an avenue to discuss and exchange new ideas
+and techniques for the design, implementation and verification of next
+generation open distributed systems centred on the notion of agreement
+among computational agents.
+
+The conference is supported by COST Action IC0801 on Agreement Technologi=
+es.
+
+
+TOPICS OF INTEREST =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+
+- Argumentation, negotiation
+
+- Trust and reputation
+
+- Coordination and distributed decision making
+
+- Computational Social Choice
+
+- Semantic alignment
+
+- Inter-theory Relations
+
+- Decision and game theoretic foundations for agreement
+
+- Agent Commitments
+
+- Semantic Service Coordination
+
+- Normative Systems
+
+- Individual reasoning about norm adoption
+
+- Collective deliberation about norm adoption
+
+- Autonomic Electronic Institutions
+
+- Group planning agreements
+
+- Deliberative Agreement: social choice and collective judgment
+
+- Evolution of organisational structures
+
+- Social Intelligence
+
+- Logics for Agreements
+
+- Real-time agreements
+
+- Agreement patterns
+
+- Agreement technologies architectures, environments and methodologies
+
+- Applications of agreement technologies (e.g. web service composition,
+contract automation, supply chain automation, sensor networks, etc.)
+
+
+SUBMISSION DETAILS =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+
+We encourage submission of original papers from the above-mentioned or
+other related areas.
+
+Each submission should be in one of the following categories:
+
+Full Papers:
+Papers in this category should represent original and previously
+unpublished work that is currently not under review in any conference or
+journal. Both basic and applied research papers are welcome. Papers
+should not exceed 15 pages including references and figures.
+
+Position Papers:
+Contributions in this category may represent either a summary of
+original work that has already been published in a conference or journal
+(in this case submissions must include explicitly a reference to the
+already published work), or a summary of original results obtained as a
+product of STSMs funded by the Agreement Technologies Cost Action, or
+ongoing research that can lead to important contributions to Agreement
+Technologies. Submissions in this category should not exceed 2 pages.
+
+All submissions must be written in English and formatted according to
+the Springer LNCS style, which can be obtained from
+http://www.springer.de/comp/lncs/authors.html.
+
+Submissions must be done via easychair at
+https://www.easychair.org/conferences/?conf=3Dat2012
+
+All papers will be reviewed. The conference proceedings will be
+published with CEUR-WS.org. We also plan a special issue of an ISI
+ranked Journal for extended versions of high-quality papers describing
+original, novel research. Further details will be announced soon.
+
+
+
+IMPORTANT DATES =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D
+
+Abstracts due: June 20, 2012
+
+Full papers due: June 25, 2012
+
+Notification: July 20, 2012
+
+Camera-ready submission: September 9, 2012
+
+AT-2012 conference: October 15-16, 2012
+
+
+CONFERENCE OFFICIALS =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+
+Conference Chair:
+Sascha Ossowski (University Rey Juan Carlos, Spain)
+
+Programme Chairs:
+Francesca Toni (Imperial College London, UK)
+George Vouros (University of Piraeus, Greece)
+
+Local Chairs and Organisation:
+Gordan Jezic, University of Zagreb, Croatia
+Mario Kusek, University of Zagreb, Croatia
+Marin Lujak, University Rey Juan Carlos, Spain
+Tanja Grzilo, University of Zagreb, CAAS Dubrovnik, Croatia
+
+
+CONTACT =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Email: at2012@agreement-technologies.eu
+Web: http://at2012.tel.fer.hr/
+
+
+
+_______________________________________________
+mc mailing list
+mc@agreement-technologies.eu
+http://www.agreement-technologies.eu/mailman/listinfo/mc
+
+
+
+--------------030300030508010606050609
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <head>
+
+    <meta http-equiv=3D"content-type" content=3D"text/html; charset=3DISO=
+-8859-1">
+  </head>
+  <body bgcolor=3D"#FFFFFF" text=3D"#000000">
+    <br>
+    <br>
+    -------- Original Message --------
+    <table class=3D"moz-email-headers-table" border=3D"0" cellpadding=3D"=
+0"
+      cellspacing=3D"0">
+      <tbody>
+        <tr>
+          <th align=3D"RIGHT" nowrap=3D"nowrap" valign=3D"BASELINE">Subje=
+ct: </th>
+          <td>[mc] 1st CfP: AT 2012 -- First International Conference on
+            Agreement Technologies</td>
+        </tr>
+        <tr>
+          <th align=3D"RIGHT" nowrap=3D"nowrap" valign=3D"BASELINE">Date:=
+ </th>
+          <td>Fri, 30 Mar 2012 21:27:27 +0200</td>
+        </tr>
+        <tr>
+          <th align=3D"RIGHT" nowrap=3D"nowrap" valign=3D"BASELINE">From:=
+ </th>
+          <td>Sascha Ossowski <a class=3D"moz-txt-link-rfc2396E" href=3D"=
+mailto:sascha.ossowski@urjc.es">&lt;sascha.ossowski@urjc.es&gt;</a></td>
+        </tr>
+        <tr>
+          <th align=3D"RIGHT" nowrap=3D"nowrap" valign=3D"BASELINE">Organ=
+isation:
+          </th>
+          <td>CETINIA - URJC</td>
+        </tr>
+        <tr>
+          <th align=3D"RIGHT" nowrap=3D"nowrap" valign=3D"BASELINE">To: <=
+/th>
+          <td><a class=3D"moz-txt-link-abbreviated" href=3D"mailto:mc@agr=
+eement-technologies.eu">mc@agreement-technologies.eu</a></td>
+        </tr>
+      </tbody>
+    </table>
+    <br>
+    <br>
+    <pre>[Apologies if you receive this more than once]
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+C A L L  F O R  P A P E R S
+AT 2012
+First International Conference on Agreement Technologies
+
+October 15 - 16, 2012 in Dubrovnik, Croatia
+<a class=3D"moz-txt-link-freetext" href=3D"http://at2012.tel.fer.hr/">htt=
+p://at2012.tel.fer.hr/</a>
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+AIMS &amp; SCOPE =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D
+
+Agreement Technologies refer to computer systems in which autonomous
+software agents negotiate with one another, typically on behalf of
+humans, in order to come to mutually acceptable agreements. An agent may
+choose whether to fulfil an agreement or not, and it should fulfil it
+when there is an obligation to do so derived from the standing
+agreements. Autonomy, interaction, mobility and openness are key
+concepts studied within the Agreement Technologies approach.
+
+Semantic alignment, negotiation, argumentation, virtual organisations,
+trust and reputation and several other technologies are part of the
+sandbox to define, specify and verify such systems. The first
+International Conference on Agreement Technologies is an
+interdisciplinary forum that brings together researchers and
+practitioners working on the various topics comprising this emergent and
+vibrant field. It provides an avenue to discuss and exchange new ideas
+and techniques for the design, implementation and verification of next
+generation open distributed systems centred on the notion of agreement
+among computational agents.
+
+The conference is supported by COST Action IC0801 on Agreement Technologi=
+es.
+
+
+TOPICS OF INTEREST =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+
+- Argumentation, negotiation
+
+- Trust and reputation
+
+- Coordination and distributed decision making
+
+- Computational Social Choice
+
+- Semantic alignment
+
+- Inter-theory Relations
+
+- Decision and game theoretic foundations for agreement
+
+- Agent Commitments
+
+- Semantic Service Coordination
+
+- Normative Systems
+
+- Individual reasoning about norm adoption
+
+- Collective deliberation about norm adoption
+
+- Autonomic Electronic Institutions
+
+- Group planning agreements
+
+- Deliberative Agreement: social choice and collective judgment
+
+- Evolution of organisational structures
+
+- Social Intelligence
+
+- Logics for Agreements
+
+- Real-time agreements
+
+- Agreement patterns
+
+- Agreement technologies architectures, environments and methodologies
+
+- Applications of agreement technologies (e.g. web service composition,
+contract automation, supply chain automation, sensor networks, etc.)
+
+
+SUBMISSION DETAILS =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+
+We encourage submission of original papers from the above-mentioned or
+other related areas.
+
+Each submission should be in one of the following categories:
+
+Full Papers:
+Papers in this category should represent original and previously
+unpublished work that is currently not under review in any conference or
+journal. Both basic and applied research papers are welcome. Papers
+should not exceed 15 pages including references and figures.
+
+Position Papers:
+Contributions in this category may represent either a summary of
+original work that has already been published in a conference or journal
+(in this case submissions must include explicitly a reference to the
+already published work), or a summary of original results obtained as a
+product of STSMs funded by the Agreement Technologies Cost Action, or
+ongoing research that can lead to important contributions to Agreement
+Technologies. Submissions in this category should not exceed 2 pages.
+
+All submissions must be written in English and formatted according to
+the Springer LNCS style, which can be obtained from
+<a class=3D"moz-txt-link-freetext" href=3D"http://www.springer.de/comp/ln=
+cs/authors.html">http://www.springer.de/comp/lncs/authors.html</a>.
+
+Submissions must be done via easychair at
+<a class=3D"moz-txt-link-freetext" href=3D"https://www.easychair.org/conf=
+erences/?conf=3Dat2012">https://www.easychair.org/conferences/?conf=3Dat2=
+012</a>
+
+All papers will be reviewed. The conference proceedings will be
+published with CEUR-WS.org. We also plan a special issue of an ISI
+ranked Journal for extended versions of high-quality papers describing
+original, novel research. Further details will be announced soon.
+
+
+
+IMPORTANT DATES =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D
+
+Abstracts due: June 20, 2012
+
+Full papers due: June 25, 2012
+
+Notification: July 20, 2012
+
+Camera-ready submission: September 9, 2012
+
+AT-2012 conference: October 15-16, 2012
+
+
+CONFERENCE OFFICIALS =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+
+Conference Chair:
+Sascha Ossowski (University Rey Juan Carlos, Spain)
+
+Programme Chairs:
+Francesca Toni (Imperial College London, UK)
+George Vouros (University of Piraeus, Greece)
+
+Local Chairs and Organisation:
+Gordan Jezic, University of Zagreb, Croatia
+Mario Kusek, University of Zagreb, Croatia
+Marin Lujak, University Rey Juan Carlos, Spain
+Tanja Grzilo, University of Zagreb, CAAS Dubrovnik, Croatia
+
+
+CONTACT =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Email: <a class=3D"moz-txt-link-abbreviated" href=3D"mailto:at2012@agreem=
+ent-technologies.eu">at2012@agreement-technologies.eu</a>
+Web: <a class=3D"moz-txt-link-freetext" href=3D"http://at2012.tel.fer.hr/=
+">http://at2012.tel.fer.hr/</a>
+
+
+
+_______________________________________________
+mc mailing list
+<a class=3D"moz-txt-link-abbreviated" href=3D"mailto:mc@agreement-technol=
+ogies.eu">mc@agreement-technologies.eu</a>
+<a class=3D"moz-txt-link-freetext" href=3D"http://www.agreement-technolog=
+ies.eu/mailman/listinfo/mc">http://www.agreement-technologies.eu/mailman/=
+listinfo/mc</a>
+
+</pre>
+  </body>
+</html>
+
+--------------030300030508010606050609--
+
+--------------ms040104060000030502080004
+Content-Type: application/pkcs7-signature; name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7s"
+Content-Description: S/MIME Cryptographic Signature
